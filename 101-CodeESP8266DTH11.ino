@@ -1,5 +1,5 @@
 //ESP 8266 e DHT11
-
+// URL para o ESP8266  https://arduino.esp8266.com/stable/package_esp8266com_index.json
 #include <DHT.h>
 
 // Define o pino onde o DHT11 está conectado
